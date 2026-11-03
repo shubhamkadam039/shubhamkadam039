@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:12306B,100:00C6FF&section=header&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=2500&pause=1500&color=00C6FF&center=true&vCenter=true&repeat=false&width=800&height=80&lines=SHUBHAM" alt="Shubham Kadam"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=2500&pause=1500&color=00C6FF&center=true&vCenter=true&repeat=false&width=800&height=80&lines=SHUBHAM KADAM" alt="Shubham Kadam"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=23&duration=2600&pause=900&color=E2F3FF&center=true&vCenter=true&width=800&height=50&lines=Aspiring+DevOps+Engineer;Cloud+%7C+Automation+%7C+CI%2FCD;Building+and+Learning+Every+Day;Docker+%7C+AWS+%7C+Linux+%7C+Git" />
 
