@@ -54,3 +54,18 @@ location:    Pune, Maharashtra, India
 core_stack:  [Linux, Bash, Docker, GitHub Actions, AWS, Git]
 exploring:   [Terraform, Kubernetes, Prometheus, Grafana]
 status:      Open to DevOps / Cloud Support / SRE roles
+
+flowchart LR
+    A([Git Push: main]) --> B[GitHub Actions CI]
+    B --> C{Lint & Trivy CVE Scan}
+    C -->|Pass| D[Build & Tag Docker Image]
+    D --> E[(Docker Hub Registry)]
+    E --> F[AWS EC2 / Docker Compose]
+
+    classDef source fill:#24143D,stroke:#9B5DE5,color:#E8DEFF
+    classDef gate fill:#382064,stroke:#C4A7FF,color:#FFFFFF
+    classDef deploy fill:#160D27,stroke:#9B5DE5,color:#E8DEFF
+
+    class A,B source
+    class C,D gate
+    class E,F deploy
