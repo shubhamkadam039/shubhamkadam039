@@ -17,13 +17,11 @@
 <a href="https://github.com/shubhamkadam039">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="[https://www.linkedin.com/in/shubhamkadam039/](https://www.linkedin.com/in/shubhamkadam039/)">
-  <img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)"/>
+<a href="https://www.linkedin.com/in/shubhamkadam039/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=shubhamkadam039&style=flat-square&color=9B5DE5&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
